@@ -16,3 +16,26 @@ smartbuilding/
 # 系統檔案
 .DS_Store
 Thumbs.db
+
+# 原始 PDF 檔案（不公開）
+smartbuilding/
+
+# 建置工具（不公開）
+main.js
+package.json
+package-lock.json
+node_modules/
+
+# 快取檔案（不公開）
+conversion_cache.json
+trial_links.txt
+
+# Docker 相關（不公開）
+Dockerfile.ocr
+
+# 只保留輸出結果
+!docs/
+
+說明:
+
+smartbuilding/: 
