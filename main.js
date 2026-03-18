@@ -611,9 +611,9 @@ async function main(){
     console.log('\n📊 輸出摘要:');
     console.log(`   - HTML 檔案: ${htmlFiles.length} 個`);
     console.log(`   - Trial links: ${trialLinks.length} 個`);
-    console.log(`   - Meta 資料: site/meta/`);
-    console.log(`   - 主索引: site/index.html`);
-    console.log(`   - README: site/README_links.md`);
+    console.log(`   - Meta 資料: docs/meta/`);
+    console.log(`   - 主索引: docs/index.html`);
+    console.log(`   - README: docs/README_links.md`);
 }
 
 main().catch(error => {
