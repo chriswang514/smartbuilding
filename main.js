@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 
 // ================= 配置區 =================
 const PDF_FOLDER = path.join(__dirname, 'smartbuilding');
-const OUTPUT_FOLDER = path.join(__dirname, 'site');
+const OUTPUT_FOLDER = path.join(__dirname, 'docs');
 const TRIAL_FOLDER = path.join(OUTPUT_FOLDER, 'trial');
 const META_FOLDER = path.join(OUTPUT_FOLDER, 'meta');
 
