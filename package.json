@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pdf2html": "^4.4.0"
+  }
+}
