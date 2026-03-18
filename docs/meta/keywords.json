@@ -6,17 +6,17 @@
       "efa",
       "bc",
       "ee",
-      "fa",
       "ba",
       "bb",
       "ca",
       "fc",
       "ae",
-      "acb",
       "eba",
+      "de",
       "cc",
       "cb",
-      "ef"
+      "ef",
+      "tabc"
     ]
   },
   {
@@ -26,17 +26,17 @@
       "bc",
       "cfb",
       "efa",
+      "ba",
       "fd",
-      "fa",
       "ca",
       "bb",
       "ef",
-      "acb",
-      "ba",
+      "cd",
+      "fee",
+      "be",
       "fb",
       "eba",
-      "dc",
-      "cc"
+      "dc"
     ]
   },
   {
@@ -59,60 +59,20 @@
     "file": "111901/113CIB318南港區玉成段303地號新建工程_評定書-70-107.html",
     "keywords": [
       "xff",
+      "ea",
       "cfb",
       "ee",
+      "ba",
       "bc",
-      "ea",
       "fd",
       "efa",
       "bb",
       "ef",
-      "ba",
+      "ad",
       "dda",
+      "be",
       "fb",
-      "ca",
-      "acb",
-      "ae"
-    ]
-  },
-  {
-    "file": "111901/AstrologyfortheSoul-1-29.html",
-    "keywords": [
-      "the",
-      "in",
-      "to",
-      "and",
-      "you",
-      "of",
-      "quot",
-      "is",
-      "apos",
-      "it",
-      "for",
-      "your",
-      "node",
-      "north",
-      "are"
-    ]
-  },
-  {
-    "file": "111901/AstrologyfortheSoul-30-73.html",
-    "keywords": [
-      "to",
-      "they",
-      "the",
-      "and",
-      "their",
-      "in",
-      "quot",
-      "apos",
-      "of",
-      "it",
-      "is",
-      "for",
-      "are",
-      "others",
-      "aries"
+      "ca"
     ]
   }
 ]
